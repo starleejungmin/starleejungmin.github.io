@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
+title:  "시작은 미약하지만 끝은 창대하리라"
 date:   2019-03-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+사람들은 큰 돌산에서는 넘어지지 않는다. 
+그 위험성을 충분히 잘 알기 때문이다.
+정작 사람들은 눈에 잘띄지 않는
+작은 돌에 걸려 넘어지곤 한다.
 
 ```javascript
 const Razorpay = require('razorpay');
