@@ -48,7 +48,7 @@ plainwhite:
 
   social_links:
     twitter: samarsault
-    github: samarsault
+    github: starleejungmin
     linkedIn: in/samarsault # format: locale/username
 ```
 
