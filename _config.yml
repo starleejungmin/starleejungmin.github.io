@@ -1,5 +1,6 @@
-title: Your awesome title
-author: GitHub User
+locle: "ko-KR"
+title: 정민 Github
+author: https://starleejungmin.github.io/
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -13,7 +14,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: No Pain No Gain
-  tagline: Developer. Designer
+  tagline: 10000시간의 법칙
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -27,7 +28,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: samarsault
-    github:  samarsault
+    github:  starleejungmin
     linkedIn: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll
