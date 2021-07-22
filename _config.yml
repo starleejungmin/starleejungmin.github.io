@@ -27,9 +27,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    facebook: samarsault
+    facebook: profile.php?id=100003974460185
     github:  starleejungmin
-    linkedIn: in/samarsault
+    email: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
