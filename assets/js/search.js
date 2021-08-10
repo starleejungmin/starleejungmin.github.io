@@ -1,5 +1,3 @@
----
----
 
 window.onload = function () {
     var $searchbar = document.getElementById('searchbar');
